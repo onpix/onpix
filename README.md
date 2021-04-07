@@ -1,20 +1,17 @@
+
+
+
+<a href="#">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=tuvovan&show_icons=true alt="tuvovan"&title_color=ffff00&icon_color=ffff00 /> 
+</a>
+                                                                                                                 
+                                                                                                                 
 ### Hi there 👋
 
 - 🔭 I’m currently working on @SmartMore in ShenZhen
 - 📫 How to reach me: `hust.why@qq.com`
 - 🌱 I’m currently learning Computer Vision
 - 😄 My recent work: 
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=creeper121386&repo=vielab)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
