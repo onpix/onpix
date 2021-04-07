@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on @SmartMore in ShenZhen
 - 📫 How to reach me: `hust.why@qq.com`
 - 🌱 I’m currently learning Computer Vision
-- 😄 My recent work: 
+- 😄 My recent work: [vielab](https://github.com/creeper121386/vielab)
 
 
 <!--
