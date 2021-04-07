@@ -1,10 +1,6 @@
-
-
-
 <a href="#">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=tuvovan&show_icons=true alt="tuvovan"&title_color=ffff00&icon_color=ffff00 /> 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=creeper121386&show_icons=true&theme=shades-of-purple /> 
 </a>
-                                                                                                                 
                                                                                                                  
 ### Hi there 👋
 
