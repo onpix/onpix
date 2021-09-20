@@ -4,7 +4,7 @@
                                                                                                                  
 ### Hi there 👋
 
-- 🔭 I’m currently in Shenzhen, China
+- 🔭 I’m currently in Hong Kong, China
 - 📫 How to reach me: `hust.why@qq.com`
 - 🌱 I’m currently working on Computer Vision
 - 😄 My recent work: [vielab](https://github.com/creeper121386/vielab)
