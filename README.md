@@ -6,11 +6,13 @@
 
 - 🔭 I’m currently in Hong Kong, China
 - 📫 How to reach me: `hust.why@qq.com`
-- 🌱 I’m currently working on Computer Vision
-- 😄 My recent work: [vielab](https://github.com/creeper121386/vielab)
+- 🌱 I’m currently working on low-level computer vision and neural rendering.
+
 
 
 <!--
+- 😄 My recent work: [vielab](https://github.com/creeper121386/vielab)
+
 **creeper121386/creeper121386** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
