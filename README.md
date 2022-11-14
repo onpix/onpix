@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently in Hong Kong, China
 - 📫 How to reach me: `hust.why@qq.com`
-- 🌱 I’m currently working on computer vision: low-level computer vision and neural rendering.
+- 🌱 I’m currently working on low-level computer vision and neural rendering.
 - 😄 My recent work: [lcdpnet](https://github.com/onpix/LCDPNet)
 
 
