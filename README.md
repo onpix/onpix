@@ -8,8 +8,7 @@
 - 📫 How to reach me: `hust.why@qq.com`
 - 🌱 I’m currently working on low-level computer vision and neural rendering.
 - 😄 My recent work: [lcdpnet](https://github.com/onpix/LCDPNet)
-
-
+- 🏡 Check out my [homepage](https://whyy.site) to see more! 
 
 <!--
 - 😄 My recent work: [vielab](https://github.com/creeper121386/vielab)
