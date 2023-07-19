@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently in Hong Kong, China
 - 🌱 I’m currently working on low-level computer vision and neural rendering.
-- 😄 My recent work: [lcdpnet](https://github.com/onpix/LCDPNet)
+- 😄 My recent work: [lcdpnet](https://github.com/onpix/LCDPNet), [llnerf](https://github.com/onpix/LLNeRF)
 - 🏡 Check out my [homepage](https://whyy.site) to see more! 
 
 <!--
