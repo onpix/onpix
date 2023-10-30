@@ -4,10 +4,9 @@
                                                                                                                  
 #### Hi there 👋
 
-- 🔭 I’m currently in Hong Kong, China
-- 🌱 I’m currently working on low-level computer vision and neural rendering.
+- 🔭 I’m currently in Hong Kong, China, and working on neural rendering research.
 - 😄 My recent work: [lcdpnet](https://github.com/onpix/LCDPNet), [llnerf](https://github.com/onpix/LLNeRF)
-- 🏡 Check out my [homepage](https://whyy.site) to see more! 
+- 🏡 Visit my [homepage](https://whyy.site) to learn more! 
 
 <!--
 - 😄 My recent work: [vielab](https://github.com/creeper121386/vielab)
