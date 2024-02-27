@@ -5,7 +5,7 @@
 #### Hi there 👋
 
 - 🔭 I’m currently in Hong Kong, China, and working on neural rendering research.
-- 😄 My recent work: [lcdpnet](https://github.com/onpix/LCDPNet), [llnerf](https://github.com/onpix/LLNeRF)
+- 😄 My recent work: [lcdpnet](https://github.com/onpix/LCDPNet), [llnerf](https://github.com/onpix/LLNeRF) and [NeP](https://github.com/onpix/NeP)
 - 🏡 Visit my [homepage](https://whyy.site) to learn more! 
 
 <!--
